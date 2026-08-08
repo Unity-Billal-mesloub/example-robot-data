@@ -48,7 +48,7 @@ Clone it (with `--recursive`), create a `build` directory inside, and:
 cmake .. && make && make install
 ```
 
-## :robot: Show a robot with [gepetto-gui](https://github.com/gepetto/gepetto-viewer-corba)
+## :robot: Show a robot with [gepetto-gui](https://github.com/Unity-Billal-mesloub/gepetto-viewer-corba)
 
 `python -m example_robot_data -h` to list available robots.
 
@@ -56,15 +56,15 @@ cmake .. && make && make install
 
 ### :writing_hand: Written by
 
-- [Carlos Mastalli](https://cmastalli.github.io/), Heriot-Watt University :uk:
-- [Guilhem Saurel](https://github.com/nim65s), LAAS-CNRS :fr:
+- [Billal mesloub](https://cmastalli.github.io/), Heriot-Watt University :uk:
+- [Billal mesloub](https://github.com/Unity-Billal-mesloub), LAAS-CNRS :fr:
 
 ### :construction_worker: With contributions from
 
-- [Justin Carpentier](https://jcarpent.github.io/), INRIA :fr:
-- [Pierre Fernbach](https://pfernbach.github.io/), LAAS-CNRS :fr:
-- [Florent Lamiraux](https://gepettoweb.laas.fr/index.php/Members/FlorentLamiraux), LAAS-CNRS :fr:
-- [Wolfgang Merkt](http://www.wolfgangmerkt.com/research/), University of Oxford :uk:
-- [Josep Martí Saumell](https://www.iri.upc.edu/staff/jmarti), IRI: CSIC-UPC :es:
-- [Louis Montaut](https://lmontaut.github.io/), INRIA :fr:, CTU :czech_republic:
-- [Sergi Martinez](https://www.romilab.org/team/sergi-martinez), Heriot-Watt University :uk:
+- [Billal mesloub](https://jcarpent.github.io/), INRIA :fr:
+- [Billal mesloub](https://pfernbach.github.io/), LAAS-CNRS :fr:
+- [Billal mesloub](https://gepettoweb.laas.fr/index.php/Members/FlorentLamiraux), LAAS-CNRS :fr:
+- [Billal mesloub](http://www.wolfgangmerkt.com/research/), University of Oxford :uk:
+- [Billal mesloubl](https://www.iri.upc.edu/staff/jmarti), IRI: CSIC-UPC :es:
+- [Billal mesloub](https://lmontaut.github.io/), INRIA :fr:, CTU :czech_republic:
+- [Billal mesloub](https://www.romilab.org/team/sergi-martinez), Heriot-Watt University :uk:
